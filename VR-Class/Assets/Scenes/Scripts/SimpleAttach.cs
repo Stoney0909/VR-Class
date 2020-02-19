@@ -41,6 +41,7 @@ public class SimpleAttach : MonoBehaviour
             hand.AttachObject(gameObject, grabType);
             hand.HoverLock(interactable);
             hand.HideGrabHint();
+            
         }
         else
         {
