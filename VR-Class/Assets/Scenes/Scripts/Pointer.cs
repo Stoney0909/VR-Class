@@ -6,16 +6,16 @@ public class Pointer : MonoBehaviour
 {
     public float m_DefaultLength = 5.0f;
     public GameObject m_Dot;
-    public VRInputModule = InputModule;
+    //public VRInputModule = InputModule;
     
 
 
 
-    private RaycastHit CreateRayCast(float length)
-    {
-        RaycastHit hit;
-        return hit;
-    }
+    //private RaycastHit CreateRayCast(float length)
+    //{
+    //    RaycastHit hit;
+    //    return hit;
+    //}
 
 
 
